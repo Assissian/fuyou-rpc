@@ -1,0 +1,2 @@
+fast-fail=com.atcwl.core.reflect.invoke.impl.FastFailInvoker
+retry=com.atcwl.core.reflect.invoke.impl.RetryInvoker

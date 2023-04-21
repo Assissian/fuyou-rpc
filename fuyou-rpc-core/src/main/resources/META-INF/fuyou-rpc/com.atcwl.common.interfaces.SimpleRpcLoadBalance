@@ -1,0 +1,5 @@
+random=com.atcwl.core.loadbalance.rule.random.RandomRule
+random-weight=com.atcwl.core.loadbalance.rule.random.RandomWeightRule
+round=com.atcwl.core.loadbalance.rule.round.RoundRule
+smooth-weight-round=com.atcwl.core.loadbalance.rule.round.SmoothWeightRoundRule
+normal-weight-round=com.atcwl.core.loadbalance.rule.round.NormalWeightRoundRule

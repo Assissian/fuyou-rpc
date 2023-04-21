@@ -1,0 +1,3 @@
+spi-property=com.atcwl.common.config.loader.SpiPropertiesConfigLoader
+simple-rpc-property=com.atcwl.common.config.loader.PropertiesConfigLoader
+system-property=com.atcwl.common.config.loader.SystemPropertyLoader

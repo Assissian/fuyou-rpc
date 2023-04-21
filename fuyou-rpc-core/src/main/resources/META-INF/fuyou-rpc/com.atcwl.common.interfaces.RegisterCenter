@@ -1,0 +1,2 @@
+redis=com.atcwl.core.register.strategy.RedisRegisterCenter
+mysql=com.atcwl.core.register.strategy.MysqlRegisterCenter

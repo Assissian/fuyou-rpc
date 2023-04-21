@@ -1,0 +1,5 @@
+# Project exclude paths
+/fuyou-rpc-common/target/
+/fuyou-rpc-core/target/
+/provider/target/
+/provider-consumer-common/target/

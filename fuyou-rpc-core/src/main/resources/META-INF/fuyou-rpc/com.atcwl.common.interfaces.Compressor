@@ -1,0 +1,2 @@
+default=com.atcwl.core.compress.DefaultCompressor
+gzip=com.atcwl.core.compress.GzipCompressor
